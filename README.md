@@ -1,5 +1,7 @@
 # Neural-Network
-I created this neural network for a course at the University of Michigan.
+I created this neural network for a course at the University of Michigan structured as below.
+
+![neural network](https://github.com/nathanrosswilson/Neural-Network/blob/main/Screenshot%202020-11-02%20110547.png)
 
 It trains on data from [MNIST handwriting database](http://yann.lecun.com/exdb/mnist/).
 
